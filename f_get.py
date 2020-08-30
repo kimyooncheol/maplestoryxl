@@ -139,13 +139,4 @@ def get_UserInfohtml(userNames) :
         a = a+1
         print(int(a/len(userNames)*100),'%')
     return htmls
-"""
-guildName, guildWorld = get_Guild()
-userNames = get_Username(guildName,guildWorld)
-htmls = get_UserInfohtml(userNames)
-for html in htmls :
-    print(get_UserLevel(html))
-    print(get_UserJob(html))
-    print(get_UserFloor(html))
-    print(get_UserDate(html))
-"""
+
