@@ -1,4 +1,4 @@
-# 메이플스토리 디스코드 봇
+# 메이플스토리 Excel자동화
 ![logo](https://ssl.nx.com/s2/game/maplestory/renewal/common/logo.png)
 ## Project Info
 - maple.gg에서 유저 정보를 크롤링 합니다.
